@@ -26,3 +26,30 @@ Ensure that you have the following installed on your machine:
    Open your terminal/command prompt and run the following command to clone the project:
    ```bash
    git clone https://github.com/ItzDhruv/Docs-copy-React-App.git
+
+2. **Navigate to the Project Directory:**
+   Change into the project directory by running:
+   ```bash
+   cd Docs-copy-React-App
+
+3. **Install Dependencies:**
+   Install the required dependencies using npm or yarn. You can use either one depending on your preference:
+   
+   - Using npm:
+     ```bash
+     npm install
+     ```
+   - Or using yarn:
+     ```bash
+     yarn install
+4. **Run the Development Server:**
+   After installing the dependencies, you can start the development server by running:
+   
+   - Using npm:
+     ```bash
+     npm run dev
+     ```
+   - Or using yarn:
+     ```bash
+     yarn dev
+     ```
