@@ -12,3 +12,17 @@ Responsive Design: The app is designed to work on both desktop and mobile device
 Demo Image : 
 
 ![img alt](https://github.com/ItzDhruv/Docs-copy-React-App/blob/main/docs/Screenshot%202025-01-30%20151948.png)
+
+## How to Clone and Run the Project
+
+### Prerequisites
+Ensure that you have the following installed on your machine:
+- [Node.js](https://nodejs.org/) (v14 or higher)
+- [Git](https://git-scm.com/)
+
+### Steps to Clone and Run the App
+
+1. **Clone the Repository:**
+   Open your terminal/command prompt and run the following command to clone the project:
+   ```bash
+   git clone https://github.com/ItzDhruv/Docs-copy-React-App.git
